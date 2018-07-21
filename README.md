@@ -8,6 +8,10 @@ Google [Datalab](https://cloud.google.com/datalab/) - interactive tool for data 
 OpenAI [Gym](http://gym.openai.com) - Reinforcement learning environment
 
 ## Courses
+Coursera \
+[Geof Hinton's](https://www.coursera.org/learn/neural-networks) \
+[Andrew Ng's](https://www.coursera.org/learn/machine-learning/)
+
 MIT \
 [Artificial General Intelligence](https://agi.mit.edu/) \
 [Intro to Deep Learning](http://introtodeeplearning.com/) \
@@ -20,9 +24,16 @@ CS224n - [NLP](https://web.stanford.edu/~jurafsky/slp3), [Textbook](https://web.
 Berkeley \
 [CS294](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
+Oxford \
+[Nando de Freitas](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+
 [Fast.ai](http://www.fast.ai)
 
 [Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html) , [Videos](https://www.youtube.com/watch?v=2pWv7GOvuf0)
+
+## Books
+[Deep Learning](http://www.deeplearningbook.org/)
+
 
 ## Projects
 Driven Data Labs [projects](http://drivendata.co/projects.html) \

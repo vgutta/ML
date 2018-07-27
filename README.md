@@ -41,3 +41,6 @@ Driven Data [Competetions](https://www.drivendata.org/competitions)
 
 ### Open source
 [AI.ON](https://ai-on.org/)
+
+### Other Resources
+[NLP transfer learning](http://nlp.fast.ai)

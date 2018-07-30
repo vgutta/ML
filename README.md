@@ -31,6 +31,8 @@ Oxford \
 
 [Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html) , [Videos](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 
+[Machine Learning Journey](https://github.com/vgutta/ML/tree/master/Machine%20Learning%20Journey)
+
 ## Books
 [Deep Learning](http://www.deeplearningbook.org/)
 

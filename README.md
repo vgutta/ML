@@ -47,3 +47,4 @@ Driven Data [Competetions](https://www.drivendata.org/competitions)
 ### Other Resources
 [NLP transfer learning](http://nlp.fast.ai) \
 [ImageNet Paper](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+[Colab Resources](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)

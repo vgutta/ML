@@ -63,14 +63,15 @@ class LinearClassifier(object):
       # evaluate loss and gradient
       loss, grad = self.loss(X_batch, y_batch, reg)
       loss_history.append(loss)
-
-      self.W -= learning_rate * grad
     
       # perform parameter update
       #########################################################################
       # TODO:                                                                 #
       # Update the weights using the gradient and the learning rate.          #
       #########################################################################
+      
+      self.W -= learning_rate * grad
+
       pass
       #########################################################################
       #                       END OF YOUR CODE                                #
@@ -100,6 +101,8 @@ class LinearClassifier(object):
     # TODO:                                                                   #
     # Implement this method. Store the predicted labels in y_pred.            #
     ###########################################################################
+    class_preds = X.dot(self.W)
+    y_pred = class_preds.argmax(axis=1)
     pass
     ###########################################################################
     #                           END OF YOUR CODE                              #

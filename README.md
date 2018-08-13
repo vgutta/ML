@@ -5,7 +5,8 @@ Visual Introduction to Machine Learning [1](http://www.r2d3.us/visual-intro-to-m
 ## Tools
 Jupyter notebooks in the cloud [Colab](colab.research.google.com) / [Azure](https://notebooks.azure.com) \
 Google [Datalab](https://cloud.google.com/datalab/) - interactive tool for data exploration, analysis, visualization and machine learning \
-OpenAI [Gym](http://gym.openai.com) - Reinforcement learning environment
+OpenAI [Gym](http://gym.openai.com) - Reinforcement learning environment \
+[AirSim](https://github.com/Microsoft/AutonomousDrivingCookbook/tree/master/AirSimE2EDeepLearning)- Autonomous Driving Simulator
 
 ## Courses
 Coursera \

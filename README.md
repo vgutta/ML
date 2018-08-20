@@ -52,3 +52,6 @@ Driven Data [Competetions](https://www.drivendata.org/competitions)
 [ImageNet Paper](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) \
 [Colab Resources](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d) \
 [Numpy](http://cs231n.github.io/python-numpy-tutorial/)
+
+### Articles
+NLP [Part 1](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e) [Part 2](https://medium.com/@ageitgey/text-classification-is-your-new-secret-weapon-7ca4fad15788)

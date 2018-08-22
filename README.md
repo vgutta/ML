@@ -37,7 +37,8 @@ Oxford \
 [Machine Learning Journey](https://github.com/vgutta/ML/tree/master/Machine%20Learning%20Journey)
 
 ## Books
-[Deep Learning](http://www.deeplearningbook.org/)
+[Deep Learning](http://www.deeplearningbook.org/) \
+[Intro to Data Mining](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)
 
 
 ## Projects

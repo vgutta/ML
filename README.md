@@ -24,7 +24,8 @@ CS231n - [2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQR
 CS224n - [NLP](https://web.stanford.edu/~jurafsky/slp3), [Textbook](https://web.stanford.edu/~jurafsky/slp3/)
 
 Berkeley \
-[CS294](http://rail.eecs.berkeley.edu/deeprlcourse/)
+[CS294](http://rail.eecs.berkeley.edu/deeprlcourse/) \
+[Data 8](http://data8.org/)
 
 Oxford \
 [Nando de Freitas](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)

@@ -25,34 +25,28 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 
 ## Week 4 - Machine Learning in Practice
 - [AWS Explained](https://www.youtube.com/watch?v=zkzED9HvMG0&feature=youtu.be)
-- [Completing a Kaggle Competition](https://www.youtube.com/watch?v=zkzED9HvMG0&feature=youtu.be&a)
-- Google Cloud Explained
-- Azure Explained
+- [Completing a Kaggle Competition](https://www.youtube.com/watch?v=suRd3UzdBeo&t=2245s)
+- [Google Cloud Explained](https://www.youtube.com/watch?v=tdhVXKf_WSs)
+- [Azure Explained](https://github.com/llSourcell/azure_machine_learning)
 
-## Week 5 - Data Preprocessing
-- Data Preprocessing
-- Cleaning Data
-- Data Tools
-- Live Stream
+## Week 5 - Machine Learning Languages
+- [Best Programming Language for Machine Learning](https://www.youtube.com/watch?v=-cdxxrbKdho)
+- [Logistic Regression in Python](https://www.youtube.com/watch?v=H6ii7NFdDeg)
+- [Building an ML app with NodeJS](https://www.youtube.com/watch?v=CMank9YmtTM)
+- [School of AI Introduction](https://www.youtube.com/watch?v=8yu8rtXThy8)
 
-## Week 6 - TensorFlow
-- TF.JS
-- Eager Execution
-- Tensorflow Lite
-- Live Stream
+## Week 6 - Modern Day Research
+- [Neural Arithmetic Logic Units](https://www.youtube.com/watch?v=v9E7Wg0dHiU)
+- [OpenAI Five](https://www.youtube.com/watch?v=DzzFSyzv1p0)
+- [AlphaGo Zero](https://www.youtube.com/watch?v=UzYeqAJ2bA8&t=204s)
+- [PyTorch Live Stream](https://www.youtube.com/watch?v=TvwYV0viIQE)
 
-## Week 7 - Deep Learning in Production
-- TensorFlow Serving
-- Scaling
-- Live Stream
+## Week 7 - Studying Practices
+- How to Study ML
+- Studying Quantum Machine Learning
+- Finding a Local Study Group
 
-## Week 8 - GANs
+## Week 8 - The Future
 - Latest GANs
 - Research opportunites
-- Live Stream
-
-## Week 9 - The Latest Machine Learning techniques
-- Meta Learning
-- New optimization strategies
-- Deep Reinforcement Learning
 - Live Stream

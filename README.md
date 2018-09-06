@@ -4,6 +4,7 @@ Visual Introduction to Machine Learning [1](http://www.r2d3.us/visual-intro-to-m
 
 ## Tools
 Jupyter notebooks in the cloud [Colab](colab.research.google.com) / [Azure](https://notebooks.azure.com) \
+[Future of Notebooks](http://willcrichton.net/notes/lessons-from-jupytercon/) \
 Google [Datalab](https://cloud.google.com/datalab/) - interactive tool for data exploration, analysis, visualization and machine learning \
 OpenAI [Gym](http://gym.openai.com) - Reinforcement learning environment \
 [AirSim](https://github.com/Microsoft/AutonomousDrivingCookbook/tree/master/AirSimE2EDeepLearning)- Autonomous Driving Simulator
@@ -23,7 +24,8 @@ CS231n - [2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQR
 CS224n - [NLP](https://web.stanford.edu/~jurafsky/slp3), [Textbook](https://web.stanford.edu/~jurafsky/slp3/)
 
 Berkeley \
-[CS294](http://rail.eecs.berkeley.edu/deeprlcourse/)
+[CS294](http://rail.eecs.berkeley.edu/deeprlcourse/) \
+[Data 8](http://data8.org/)
 
 Oxford \
 [Nando de Freitas](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
@@ -37,7 +39,8 @@ Oxford \
 [Machine Learning Journey](https://github.com/vgutta/ML/tree/master/Machine%20Learning%20Journey)
 
 ## Books
-[Deep Learning](http://www.deeplearningbook.org/)
+[Deep Learning](http://www.deeplearningbook.org/) \
+[Intro to Data Mining](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)
 
 
 ## Projects
@@ -52,3 +55,6 @@ Driven Data [Competetions](https://www.drivendata.org/competitions)
 [ImageNet Paper](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) \
 [Colab Resources](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d) \
 [Numpy](http://cs231n.github.io/python-numpy-tutorial/)
+
+### Articles
+NLP [Part 1](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e) [Part 2](https://medium.com/@ageitgey/text-classification-is-your-new-secret-weapon-7ca4fad15788)

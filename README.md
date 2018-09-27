@@ -10,6 +10,9 @@ OpenAI [Gym](http://gym.openai.com) - Reinforcement learning environment \
 [AirSim](https://github.com/Microsoft/AutonomousDrivingCookbook/tree/master/AirSimE2EDeepLearning)- Autonomous Driving Simulator
 
 ## Courses
+
+[Fast.ai](http://course.fast.ai/ml.html) Machine Learning course
+
 Coursera \
 [Geof Hinton's](https://www.coursera.org/learn/neural-networks) \
 [Andrew Ng's](https://www.coursera.org/learn/machine-learning/)
@@ -30,7 +33,7 @@ Berkeley \
 Oxford \
 [Nando de Freitas](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 
-[Fast.ai](http://www.fast.ai)
+[Fast.ai](http://course.fast.ai/index.html) Deep Learning Course
 
 #### Reinforcement Learning
 [UCL](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html) , [Videos](https://www.youtube.com/watch?v=2pWv7GOvuf0) \

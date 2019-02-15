@@ -11,7 +11,7 @@ OpenAI [Gym](http://gym.openai.com) - Reinforcement learning environment \
 
 ## Courses
 
-[Fast.ai](http://course.fast.ai/ml.html) Machine Learning course
+[Fast.ai](http://course18.fast.ai/ml) Machine Learning course
 
 Coursera \
 [Geof Hinton's](https://www.coursera.org/learn/neural-networks) \

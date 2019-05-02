@@ -36,6 +36,8 @@ Oxford \
 [Fast.ai](http://course.fast.ai/index.html) Deep Learning Course
 
 [Berkley Data Science](https://www.textbook.ds100.org)  
+
+[Stanford - Mining Massive Data sets](http://web.stanford.edu/class/cs246/)  
 #### Reinforcement Learning
 [UCL](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html) , [Videos](https://www.youtube.com/watch?v=2pWv7GOvuf0) \
 [Berkeley](https://www.youtube.com/watch?v=qaMdN6LS9rA&list=PLAdk-EyP1ND8MqJEJnSvaoUShrAWYe51U)

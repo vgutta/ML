@@ -24,7 +24,8 @@ MIT \
 
 Stanford \
 CS231n - [2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) / [2016(Andrej Karpathy)](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) [Course Website](http://cs231n.github.io/) \
-CS224n - [NLP](https://web.stanford.edu/~jurafsky/slp3), [Textbook](https://web.stanford.edu/~jurafsky/slp3/)
+CS224n - [NLP](https://web.stanford.edu/~jurafsky/slp3), [Textbook](https://web.stanford.edu/~jurafsky/slp3/) \
+[Stanford AI courses online](https://ai.stanford.edu/courses/)
 
 Berkeley \
 [CS294](http://rail.eecs.berkeley.edu/deeprlcourse/) \

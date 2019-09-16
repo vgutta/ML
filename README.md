@@ -9,6 +9,9 @@ Google [Datalab](https://cloud.google.com/datalab/) - interactive tool for data 
 OpenAI [Gym](http://gym.openai.com) - Reinforcement learning environment \
 [AirSim](https://github.com/Microsoft/AutonomousDrivingCookbook/tree/master/AirSimE2EDeepLearning)- Autonomous Driving Simulator
 
+## Blogs
+Stanford AI [blog](http://ai.stanford.edu/blog/)
+
 ## Courses
 
 [Fast.ai](http://course18.fast.ai/ml) Machine Learning course
